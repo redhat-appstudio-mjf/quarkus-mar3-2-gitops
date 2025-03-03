@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/maysunfaisal/quarkus-mar3-2:a4a19b7ac25ec7b17cfbea3fdaab434de8f63b9d@sha256:cf331c4493eef7d4edddffb56bfc3adf976bdc405b6273f95a106d5cdb56fe74 # use pre-built to bootstrap
+        - image: quay.io/maysunfaisal/quarkus-mar3-2:db0408529e2d37fcb8e0f0a7c8785ccd14b4cf45@sha256:358a3ca1706f7266103aa0224f5465e82d9670f9b0cb66e4972e6f1314f83421 # use pre-built to bootstrap
           name: app-inference
